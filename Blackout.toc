@@ -1,0 +1,18 @@
+# Blackout - Toggle a full-screen black overlay with /blackout
+# Author: Lxtus & ChatGPT
+# License: GPL-3.0
+# Copyright (C) 2026 Lxtus & ChatGPT
+# This program is free software under the GNU General Public License v3.0
+# See https://www.gnu.org/licenses/ for details.
+
+## Interface: 110207
+## Title: Blackout
+## Author: Lxtus & ChatGPT
+## Version: 1.0.1
+## Notes: Toggle a full-screen black overlay for RP immersion.
+## DefaultState: Enabled
+## SavedVariables: BlackoutEnabled
+## IconTexture: Interface\ICONS\Inv_helm_misc_rose_a_01_black
+## Category: User Interface
+
+Blackout.lua
