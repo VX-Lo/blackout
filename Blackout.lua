@@ -2,7 +2,8 @@
 Blackout
 Author: Lxtus & ChatGPT
 License: GNU General Public License v3.0 (GPL-3.0)
-Repository/Download: https://www.curseforge.com/wow/addons/blackout
+GitHub: https://github.com/VX-Lo/blackout
+Download: https://www.curseforge.com/wow/addons/blackout
 
 Description:
 A lightweight addon that toggles a full-screen black overlay
@@ -10,7 +11,7 @@ with /blackout for immersion, roleplay, cinematic transitions,
 or whenever you want to hide the rest of your interface.
 
 ─────────────
-Copyright (C) 2026 Lxtus & ChatGPT
+Copyright (C) 2026 Lxtus
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
